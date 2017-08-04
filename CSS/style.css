@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{font-family: 'Raleway', sans-serif;}
+.container {width: 100%; padding: 0px}
+body .container h1 {}
+.main_title {color: #34b5ea !important; font-weight:700 !important; font-size:52pt; padding: 20px}
+.thin_titlw {color: #34b5ea; font-weight:100 !important; font-size:52pt; padding: 20px}
+.content {text-align: center}
+.content h3 {font-weight:600}
+.content p {font-size: 36pt}
+.skill_cover {background: #598699; padding: 30px 0px 40px; color: #fff;}
+.exp {position: absolute; right: 150px; top: 100px; }
+.cat {min-height:300px; padding-top:120px}
+.webs {color:#fff !important; background: #2e2f41;}
+.apps {color:#fff !important; background: #4250ba;}
+.logos {color:#fff !important; background: #488076;}
+.cib  {color: #fff !important; background: #21112d;}
+
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+/* Styles */
+	.exp {position: inherit; text-align: center }
+	.exp img {width:90%;}
+}
