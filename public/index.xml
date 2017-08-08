@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Aug 2017 15:37:17 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Corporate branding</title>
+      <link>http://example.org/corporate-branding/</link>
+      <pubDate>Fri, 04 Aug 2017 15:37:17 +0200</pubDate>
+      
+      <guid>http://example.org/corporate-branding/</guid>
+      <description>Test </description>
+    </item>
+    
+    <item>
+      <title>Landing pages</title>
+      <link>http://example.org/landing-pages/</link>
+      <pubDate>Fri, 04 Aug 2017 15:37:17 +0200</pubDate>
+      
+      <guid>http://example.org/landing-pages/</guid>
+      <description>test test test
+
+
+test test test 
+
+
+test test test
+
+
+## About
+
+### About about about
+
+Test test test
+
+test test test</description>
+    </item>
+    
+    <item>
+      <title>Logo and posters</title>
+      <link>http://example.org/logo-and-poster-designs/</link>
+      <pubDate>Fri, 04 Aug 2017 15:37:17 +0200</pubDate>
+      
+      <guid>http://example.org/logo-and-poster-designs/</guid>
+      <description>test test test
+
+
+test test test 
+
+
+test test test
+
+
+## Posters
+
+- Poster stu
+
+## Logos
+
+- Service 1
+- Service 2
+- Service 3</description>
+    </item>
+    
+    <item>
+      <title>Tag Mofokeng</title>
+      <link>http://example.org/</link>
+      <pubDate>Fri, 04 Aug 2017 15:37:17 +0200</pubDate>
+      
+      <guid>http://example.org/</guid>
+      <description>## Test</description>
+    </item>
+    
+    <item>
+      <title>Web and Mobile Apps</title>
+      <link>http://example.org/web-and-mobile-apps/</link>
+      <pubDate>Fri, 04 Aug 2017 15:37:17 +0200</pubDate>
+      
+      <guid>http://example.org/web-and-mobile-apps/</guid>
+      <description>test test test
+
+
+test test test 
+
+
+test test test
+
+
+## Contact
+
+Web and mobile apps</description>
+    </item>
+    
+  </channel>
+</rss>
